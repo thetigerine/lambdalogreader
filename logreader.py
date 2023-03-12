@@ -1,7 +1,4 @@
-__Author__ = 'Soumil Nitin Shah'
-__Version__ = "0.0.1"
-__Email__ = "soushah@my.bridgeport.edu"
-__Github__ = "https://github.com/soumilshah1995?tab=repositories"
+
 
 
 try:
